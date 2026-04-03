@@ -1,0 +1,12 @@
+{
+    "cookies": {
+        "ttwid":"<网页端获取的ttwid，详细看README文档>",
+        "sid_guard":"<网页端获取的sid_guard，详细看README文档>",
+        "cookie":"<网页端获取的cookie，详细看README文档>"
+    },
+    "save_path":null,
+    "start_timestamp":null,
+    "step_hours":1,
+    "count_page": 1,
+    "redownload": false
+}
